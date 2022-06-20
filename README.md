@@ -8,4 +8,4 @@ ts-node server.ts
 ## To run tests do
 npm test
 or
-yarn test# tp_aseca_search_service
+yarn test
